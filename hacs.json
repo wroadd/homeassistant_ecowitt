@@ -1,5 +1,5 @@
 {
-    "name": "Ecowitt Weather Station",
+    "name": "Ecowitt Weather Station - correction fork",
     "render_readme": true,
     "domains": ["sensor", "binary_sensor"],
     "iot_class": "Local Push"
