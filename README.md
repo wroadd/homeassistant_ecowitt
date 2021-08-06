@@ -1,5 +1,7 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 
+This fork contains the 3 requested modifications after 0.5.0 (typo correction, manifest correction with version and email, constant change from VOLT to ELECTRIC_POTENTIAL_VOLT
+
 # Ecowitt Weather Station integration for home-assistant
 Ecowitt driver for homeassistant
 
