@@ -2,6 +2,7 @@ MODIFICATION OF VERSION 0.5 at 06.08.2021.
 
 This fork contains the 3 requested modifications after 0.5.0 (typo correction, manifest correction with version and email, constant change from VOLT to ELECTRIC_POTENTIAL_VOLT) and got the version number 0.5.3.
 Thanks for @garbled1, @jonootto, @AdeZwart for the original code and the requested modification!
+You can add this as a custom repository under HACS. The configuration is same as the original version.
 
 # Ecowitt Weather Station integration for home-assistant
 Ecowitt driver for homeassistant
