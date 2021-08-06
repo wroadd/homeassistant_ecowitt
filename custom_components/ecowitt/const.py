@@ -30,7 +30,7 @@ from homeassistant.const import (
     DEVICE_CLASS_PRESSURE,
     DEVICE_CLASS_TIMESTAMP,
     DEVICE_CLASS_VOLTAGE,
-    VOLT,
+    ELECTRIC_POTENTIAL_VOLT,
 )
 
 from homeassistant.components.binary_sensor import (
