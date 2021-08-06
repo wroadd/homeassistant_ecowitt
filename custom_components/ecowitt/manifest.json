@@ -1,5 +1,6 @@
 {
   "domain": "ecowitt",
+  "version" : "0.5.1",
   "name": "Ecowitt Weather Station",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/ecowitt",
@@ -11,6 +12,6 @@
   "homekit": {},
   "dependencies": [],
   "codeowners": [
-    "@garbled1"
+    "wroadd@gmail.com"
   ]
 }
